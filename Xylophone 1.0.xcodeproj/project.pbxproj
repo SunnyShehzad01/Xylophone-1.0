@@ -16,6 +16,7 @@
 		793EAE55279C56BD00F152BF /* Xylophone_1_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793EAE54279C56BD00F152BF /* Xylophone_1_0Tests.swift */; };
 		793EAE5F279C56BD00F152BF /* Xylophone_1_0UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793EAE5E279C56BD00F152BF /* Xylophone_1_0UITests.swift */; };
 		793EAE61279C56BD00F152BF /* Xylophone_1_0UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793EAE60279C56BD00F152BF /* Xylophone_1_0UITestsLaunchTests.swift */; };
+		793EAE6E279C5FDF00F152BF /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = 793EAE6D279C5FDF00F152BF /* Sounds */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		793EAE5A279C56BD00F152BF /* Xylophone 1.0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Xylophone 1.0UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		793EAE5E279C56BD00F152BF /* Xylophone_1_0UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xylophone_1_0UITests.swift; sourceTree = "<group>"; };
 		793EAE60279C56BD00F152BF /* Xylophone_1_0UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xylophone_1_0UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		793EAE6D279C5FDF00F152BF /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Sounds; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				793EAE46279C56BD00F152BF /* Assets.xcassets */,
 				793EAE48279C56BD00F152BF /* LaunchScreen.storyboard */,
 				793EAE4B279C56BD00F152BF /* Info.plist */,
+				793EAE6D279C5FDF00F152BF /* Sounds */,
 			);
 			path = "Xylophone 1.0";
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				793EAE4A279C56BD00F152BF /* LaunchScreen.storyboard in Resources */,
 				793EAE47279C56BD00F152BF /* Assets.xcassets in Resources */,
+				793EAE6E279C5FDF00F152BF /* Sounds in Resources */,
 				793EAE45279C56BC00F152BF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
